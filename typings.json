@@ -9,6 +9,7 @@
     "async": "registry:npm/async#2.0.1+20160815105832",
     "chai": "registry:npm/chai#3.5.0+20160723033700",
     "chai-as-promised": "registry:npm/chai-as-promised#5.1.0+20160310030142",
+    "pg": "registry:npm/pg#6.0.2+20160802225752",
     "redis": "registry:npm/redis#2.6.0+20160901110043"
   }
 }
